@@ -3,6 +3,13 @@ import pandas as pd
 
 # To fetch financial data
 import yfinance as yf
+import ssl
+import urllib.request
+
+# Disable SSL verification (Not recommended for production)
+ssl._create_default_https_context = ssl._create_unverified_context
+
+# Your code here that uses urllib or other HTTPS requests
 
 # For visualisation
 import matplotlib.pyplot as plt
@@ -59,6 +66,7 @@ print(url)
 
 # Read and print the stock tickers that make up S&P500
 tickers = pd.read_html(url)[0]
+# tickers=pd.read_html(url)[0]
 
 tickers.head()
 print(tickers)
