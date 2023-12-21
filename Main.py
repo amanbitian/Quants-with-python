@@ -1,6 +1,6 @@
 # For data manipulation
 import pandas as pd
-
+import numpy as np
 # To fetch financial data
 import yfinance as yf
 
