@@ -14,4 +14,11 @@ TRY TO DO THESE PROJECTS:
 
  6. **Credit Derivative Pricing:** Develop models for pricing credit derivatives, like credit default swaps (CDS), which are essential for managing credit risk.
 
+ 7. Develop **capital models-PD LGD and EAD models for the Credit card, Mortgage, and Overdraft**
+
+ 8. Develop machine learning decision models using XGB and deep learning (e.g. RNN, NLP Transformer) algorithms for **adjudication and risk modeling for TD Auto loan portfolio.**
+
+ 9. Using ARCH model to create a risk dashboard for a portfolio of assets (Equities, Futures, Options, etc.) by predicting 1-day and 5-day forward vols.
+    - The dashboard contains factor betas, VaR, CVaR, etc. and was calculated for a point-in-time asset portfolio using iid shocks extracted from historical equity data.
+
 site to read about quants [https://qfeuniversity.com/]
