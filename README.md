@@ -13,3 +13,5 @@ TRY TO DO THESE PROJECTS:
  5. **Fixed-Income Securities Analysis:** Build a tool to analyze fixed income securities, such as bonds. This could include yield curve modeling, duration and convexity analysis, or credit risk assessment. 
 
  6. **Credit Derivative Pricing:** Develop models for pricing credit derivatives, like credit default swaps (CDS), which are essential for managing credit risk.
+
+site to read about quants [https://qfeuniversity.com/]
